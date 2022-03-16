@@ -68,6 +68,25 @@
         "tongue",
         "tooth"
     ],
+    "cloth": [
+        "belt",
+        "bra",
+        "clothes",
+        "dress",
+        "gloves",
+        "hat",
+        "hat",
+        "pants",
+        "scarf",
+        "shirt",
+        "shoe",
+        "shoes",
+        "skirt",
+        "t-shirt",
+        "tie",
+        "trousers",
+        "underwear"
+    ],
     "colors": [
         "black",
         "blue",
